@@ -1,5 +1,5 @@
-//#include <unistd.h> <-- Uncomment if on Linux
-#include <io.h>       //For windows
+//#include <unistd.h> <-- Uncomment if you're on Linux and delete the next #include
+#include <io.h>       
 
 void rot13(char *string)
 {
