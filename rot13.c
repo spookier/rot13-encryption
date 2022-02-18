@@ -1,4 +1,4 @@
-//#include <unistd.h> //Uncomment if on Linux
+//#include <unistd.h> <-- Uncomment if on Linux
 #include <io.h>       //For windows
 
 void rot13(char *string)
