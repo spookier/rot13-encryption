@@ -4,7 +4,7 @@
 
 <h4> A function that takes a string and displays it, replacing each of its letters by the letter 13 spaces ahead in alphabetical order</h4>
 
-<h3>'z' becomes 'm' and 'Z' becomes 'M' </h3>
+<h3>'a' becomes 'n' and 'm' becomes 'z' </h3>
 <h4>Case remains unaffected</h4>
 
 
