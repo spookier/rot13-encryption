@@ -3,9 +3,8 @@
 <h2>A specific implementation of the Caesar cipher where a letter is shifted to the 13th place</h2>
 
 <h4> A function that takes a string and displays it, replacing each of its letters by the letter 13 spaces ahead in alphabetical order</h4>
-
+<h3>Case remains unaffected</h3>
 <h3>'a' becomes 'n' and 'm' becomes 'z' </h3>
-<h4>Case remains unaffected</h4>
 
 
 
